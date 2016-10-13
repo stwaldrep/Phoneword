@@ -28,5 +28,6 @@
         android:text="@string/callHistory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/CallHistoryButton" />
+        android:id="@+id/CallHistoryButton"
+        android:enabled="false" />
 </LinearLayout>
